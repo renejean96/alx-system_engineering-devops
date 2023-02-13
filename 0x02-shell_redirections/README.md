@@ -8,3 +8,5 @@ touch /etc/passwd
 touch /etc/ passwd /etc/hosts
 ## command that display las 10 lines of a file passwd
 tail /etc/passwd
+## command that display the first 5 lines of a file passwd
+head /etc/passwd
