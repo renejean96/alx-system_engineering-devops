@@ -12,3 +12,4 @@ tail /etc/passwd
 head /etc/passwd
 ## a script that displays the third line of the file iacta
 head --lines=3 iacta | tail --lines=1
+
