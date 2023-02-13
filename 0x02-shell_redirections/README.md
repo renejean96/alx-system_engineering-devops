@@ -6,3 +6,5 @@ echo "\"(Ôo)'"
 touch /etc/passwd
 ## command that display the content of /etc/passwd and /etc/hosts
 touch /etc/ passwd /etc/hosts
+## command that display las 10 lines of a file passwd
+tail /etc/passwd
