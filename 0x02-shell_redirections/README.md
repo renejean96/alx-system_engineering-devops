@@ -10,3 +10,5 @@ touch /etc/ passwd /etc/hosts
 tail /etc/passwd
 ## command that display the first 5 lines of a file passwd
 head /etc/passwd
+## a script that displays the third line of the file iacta
+head --lines=3 iacta | tail --lines=1
