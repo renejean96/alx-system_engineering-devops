@@ -7,5 +7,6 @@ in this project that is where we are going to cover how to do the following task
 
 ## Task 0
 a script that creates an alias is alias ls="rm *"
-
+## Task 1
+a script that prints hello user, where user is the current Linux user: ``echo"hello $user"
 
