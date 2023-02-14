@@ -12,4 +12,10 @@ a script that prints hello user, where user is the current Linux user: ``echo"he
 ## Task 2
 Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
 ``PATH=PATH:/action
+## Task 3
+a script that lists environment variables
+`` printenv
+
+## Task 4
+
 
