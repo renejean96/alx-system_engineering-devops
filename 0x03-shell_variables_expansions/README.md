@@ -8,5 +8,8 @@ in this project that is where we are going to cover how to do the following task
 ## Task 0
 a script that creates an alias is alias ls="rm *"
 ## Task 1
-a script that prints hello user, where user is the current Linux user: ``echo"hello $user"
+a script that prints hello user, where user is the current Linux user: ``echo"hello $USER"
+## Task 2
+Add /action to the PATH. /action should be the last directory the shell looks into when looking for a program.
+`` export PATH="$PATH:/action"
 
